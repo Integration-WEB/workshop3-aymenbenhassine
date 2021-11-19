@@ -17,6 +17,20 @@ body {
   z-index: 1000;
 }
 
+.navbar-expand-lg{
+  background-color : #FFFFFF !important;
+}
+.caption{
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+.contenu{
+  position: relative;
+  width: 100%;
+}
 
 
 /*============= FOOTER =============*/
